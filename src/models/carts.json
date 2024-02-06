@@ -1,0 +1,24 @@
+[
+  {
+    "id": "GuQQlnGOvMOM0oxOAzKm-",
+    "products": [
+      {
+        "id": "EiF_FrecNly-aBlZwrGlS",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "id": "Tc6EuwxEAcbN-HJzPGrOy",
+    "products": [
+      {
+        "id": "4vBObP66MUAj5uGDKYFOc",
+        "quantity": 3
+      },
+      {
+        "id": "EiF_FrecNly-aBlZwrGlS",
+        "quantity": 2
+      }
+    ]
+  }
+]
